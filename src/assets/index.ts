@@ -21,7 +21,6 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import graphql from "./tech/graphql.png";
 import redis from "./tech/redis.png";
-import websocket from "./tech/websocket.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -62,5 +61,4 @@ export {
   tripguide,
   graphql,
   redis,
-  websocket
 };

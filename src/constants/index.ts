@@ -24,7 +24,6 @@ import {
     aws,
     graphql,
     redis,
-    websocket
   } from "../assets";
   
   export const navLinks = [
