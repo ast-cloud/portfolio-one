@@ -22,10 +22,10 @@ import threejs from "./tech/threejs.svg";
 import graphql from "./tech/graphql.png";
 import redis from "./tech/redis.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import tcs from "./company/tcs.jpeg";
+import techstax from "./company/techstax.png";
+import cobuild from "./company/cobuild.jpg";
+import rt from "./company/rt.jpeg";
 
 import coursehub from "./coursehub.png";
 import codetown from "./codetown.png";
@@ -51,12 +51,12 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   graphql,
   redis,
   coursehub,
-  codetown
+  codetown,
+  tcs,
+  techstax,
+  cobuild,
+  rt
 };

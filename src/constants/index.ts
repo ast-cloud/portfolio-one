@@ -13,16 +13,16 @@ import {
     mongodb,
     git,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     threejs,
     aws,
     graphql,
     redis,
     coursehub,
-    codetown
+    codetown,
+    tcs,
+    techstax,
+    cobuild,
+    rt
   } from "../assets";
   
   export const navLinks = [
@@ -122,8 +122,8 @@ import {
     {
       title: "Developer",
       company_name: "TCS",
-      icon: starbucks,
-      iconBg: "#383E56",
+      icon: tcs,
+      iconBg: "#fff",
       date: "Oct 2021 - Present",
       points: [
         "Developing and maintaining web applications written in MERN stack.",
@@ -135,7 +135,7 @@ import {
     {
       title: "Python developer intern",
       company_name: "TechStax Pvt. Ltd.",
-      icon: tesla,
+      icon: techstax,
       iconBg: "#E6DEDD",
       date: "Apr 2021 - June 2021",
       points: [
@@ -148,8 +148,8 @@ import {
     {
       title: "Python developer intern",
       company_name: "CoBuild Constructions Pvt. Ltd.",
-      icon: shopify,
-      iconBg: "#383E56",
+      icon: cobuild,
+      iconBg: "#fff",
       date: "Jan 2020 - Feb 2020",
       points: [
         "Created plugins in Python for Building Information Modelling softwares to automate tasks relating to construction flow.",
@@ -160,8 +160,8 @@ import {
     {
       title: "PHP developer intern",
       company_name: "Ritronix Technology Pvt. Ltd.",
-      icon: meta,
-      iconBg: "#E6DEDD",
+      icon: rt,
+      iconBg: "#fff",
       date: "May 2019 - Jul 2019",
       points: [
         "Developed backend for an android application in PHP.",
