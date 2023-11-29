@@ -8,12 +8,10 @@ import {
     html,
     css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
     mongodb,
     git,
-    figma,
     docker,
     meta,
     starbucks,
@@ -23,6 +21,10 @@ import {
     jobit,
     tripguide,
     threejs,
+    aws,
+    graphql,
+    redis,
+    websocket
   } from "../assets";
   
   export const navLinks = [
@@ -81,10 +83,6 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
@@ -101,16 +99,24 @@ import {
       icon: threejs,
     },
     {
-      name: "git",
+      name: "Git",
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "Docker",
+      icon: docker,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "AWS",
+      icon: aws,
+    },
+    {
+      name: "GraphQL",
+      icon: graphql,
+    },
+    {
+      name: "Redis",
+      icon: redis,
     },
   ];
   
