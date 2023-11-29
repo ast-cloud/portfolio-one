@@ -26,6 +26,7 @@ const ExperienceCard = ({experience}:{experience:any}) => {
             {point}
           </li>
         ))}
+        {experience.externalLink.exists && <div className="font-semibold"><a href={experience.externalLink.value} target="_blank">{experience.externalLink.name}</a></div>}
       </ul>
     </VerticalTimelineElement>  
   )

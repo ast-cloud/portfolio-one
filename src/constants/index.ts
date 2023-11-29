@@ -131,6 +131,11 @@ import {
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
+      externalLink: {
+        exists: false,
+        name: '',
+        value: ''
+      }
     },
     {
       title: "Python developer intern",
@@ -144,6 +149,11 @@ import {
         "Developed and tested REST APIs in Flask.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
+      externalLink: {
+        exists: true,
+        name: 'View certificate',
+        value: 'https://res.cloudinary.com/dscv2dlik/image/upload/v1699438810/Intership%20Certificates/TechStax_ExpLetter.jpg'
+      }
     },
     {
       title: "Python developer intern",
@@ -156,6 +166,11 @@ import {
         "Implemented algorithms to solve problems related to construction and building.",
         "One of the algorithm ended up reducing material wastage from 10% to 6%, which saved them millions of dollars in big construction projects.",
       ],
+      externalLink: {
+        exists: true,
+        name: 'View certificate',
+        value: 'https://res.cloudinary.com/dscv2dlik/image/upload/v1699438549/Intership%20Certificates/Cobuild.jpg'
+      }
     },
     {
       title: "PHP developer intern",
@@ -167,8 +182,12 @@ import {
         "Developed backend for an android application in PHP.",
         "Created REST APIs and database queries for PostgreSQL.",
         "The app was used by a food delivery startup (Mahamania) to display products and process their day to day orders.",
-        "Playstore link - https://play.google.com/store/apps/details?id=com.hello.mahamania",
       ],
+      externalLink: {
+        exists: true,
+        name: 'Playstore link',
+        value: 'https://play.google.com/store/apps/details?id=com.hello.mahamania'
+      }
     },
   ];
   
