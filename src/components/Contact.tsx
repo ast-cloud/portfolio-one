@@ -25,6 +25,22 @@ const Contact = () => {
   const handleSubmit = (e: any)=>{
     e.preventDefault();
     setLoading(true);
+    console.log('process - ', process);
+    emailjs.send(process.env.EMAILJS_SERVICE_ID!, process.env.EMAILJS_TEMPLATE_ID!, {
+      from_name: form.name,
+      to_name: 'Aastik',
+      from_email: form.email,
+      to_email: 'aastikyadav1997.ay@gmail.com',
+      message: form.message
+    }, process.env.EMAILJS_PUBLIC_KEY).then(()=>{
+      setLoading(false);
+      alert('Thank you! I will get back to you as soon as possible.');
+      
+    }, (error)=>{
+      setLoading(false);
+      console.log(error);
+      alert('Something went wrong.');
+    })
 
   }
 
