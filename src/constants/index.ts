@@ -237,6 +237,7 @@ import {
       ],
       image: coursehub,
       source_code_link: "https://github.com/ast-cloud/course-app",
+      deployment_link: "https://course-app-users.vercel.app/"
     },
     {
       name: "Code Town",
@@ -266,6 +267,7 @@ import {
       ],
       image: codetown,
       source_code_link: "https://github.com/ast-cloud/code-town",
+      deployment_link: "https://code-town-users.vercel.app/"
     }
   ];
   
