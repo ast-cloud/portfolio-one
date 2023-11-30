@@ -27,10 +27,7 @@ const About = () => {
       </motion.div>
       <motion.p variants={fadeIn('','',0.1,1)} className="mt-4 text-secondary text-[17px] max-w-3xl leading-[29px]">
         I'm a software developer with experience in TypeScript and
-        JavaScript, and well-versed in technologies like React, Node.js, Express,
-        Next.js, MongoDb, Postgres. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
+        JavaScript, and well-versed in MERN stack and technologies like Next.js, Postgres, GraphQL, Redis, Web-sockets, Docker, AWS. I quickly grasp new concepts and work closely with clients to develop solutions that are both efficient and scalable, with a focus on user-friendly design. I am dedicated to creating practical solutions that address real-world challenges. Let's collaborate to turn your ideas into reality!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index)=>(
