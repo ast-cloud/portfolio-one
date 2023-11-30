@@ -20,6 +20,8 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import graphql from "./tech/graphql.png";
 import redis from "./tech/redis.png";
+import python from "./tech/python.png";
+import websocket from "./tech/websocket.png";
 
 import tcs from "./company/tcs.jpeg";
 import techstax from "./company/techstax.png";
@@ -51,6 +53,8 @@ export {
   threejs,
   graphql,
   redis,
+  python,
+  websocket,
   coursehub,
   codetown,
   tcs,

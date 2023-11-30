@@ -16,6 +16,8 @@ import {
     aws,
     graphql,
     redis,
+    python,
+    websocket,
     coursehub,
     codetown,
     tcs,
@@ -114,6 +116,14 @@ import {
     {
       name: "Redis",
       icon: redis,
+    },
+    {
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "Web-sockets",
+      icon: websocket,
     },
   ];
   
