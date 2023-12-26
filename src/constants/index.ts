@@ -208,31 +208,31 @@ import {
         "An online learning platform created in Next.js with Typescript. Users can login, view and purchase courses. Admin can create/edit courses. Fully responsive using Flexbox and MediaQueries.",
       tags: [
         {
-          name: "nextjs",
+          name: "NextJS",
           color: "blue-text-gradient",
         },
         {
-          name: "typescript",
+          name: "Typescript",
           color: "green-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "MongoDB",
           color: "pink-text-gradient",
         },
         {
-          name: "monorepo",
+          name: "Monorepo",
           color: "orange-text-gradient",
         },
         {
-          name: "recoil",
+          name: "Recoil",
           color: "pink-text-gradient",
         },
         {
-          name: "reactMUI",
+          name: "ReactMUI",
           color: "blue-text-gradient",
         },
         {
-          name: "axios",
+          name: "Axios",
           color: "green-text-gradient",
         },
       ],
@@ -246,7 +246,7 @@ import {
         "An online coding platform created in Next.js. Users can view and solve problems in 4 languages (C, C++, Java, Python). User's code is sent to CodeRunner component, which is an express server running in a dockerised environment in an AWS EC2 instance.",
       tags: [
         {
-          name: "nextjs",
+          name: "NextJS",
           color: "blue-text-gradient",
         },
         {
@@ -254,11 +254,11 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "MongoDB",
           color: "pink-text-gradient",
         },
         {
-          name: "docker",
+          name: "Docker",
           color: "blue-text-gradient",
         },
         {
@@ -276,7 +276,7 @@ import {
         "An online coding platform created in Next.js. Users can view and solve problems in 4 languages (C, C++, Java, Python). User's code is sent to CodeRunner component, which is an express server running in a dockerised environment in an AWS EC2 instance.",
       tags: [
         {
-          name: "reactjs",
+          name: "ReactJS",
           color: "blue-text-gradient",
         },
         {
@@ -284,15 +284,15 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "redis",
+          name: "Redis",
           color: "pink-text-gradient",
         },
         {
-          name: "web-sockets",
+          name: "Web-Sockets",
           color: "blue-text-gradient",
         },
         {
-          name: "AWS",
+          name: "ExpressJS",
           color: "orange-text-gradient",
         },
       ],
