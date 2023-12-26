@@ -268,6 +268,36 @@ import {
       image: codetown,
       source_code_link: "https://github.com/ast-cloud/code-town",
       deployment_link: "https://code-town-users.vercel.app/"
+    },
+    {
+      name: "Chat Now",
+      description:
+        "An online coding platform created in Next.js. Users can view and solve problems in 4 languages (C, C++, Java, Python). User's code is sent to CodeRunner component, which is an express server running in a dockerised environment in an AWS EC2 instance.",
+      tags: [
+        {
+          name: "reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "redis",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "web-sockets",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "AWS",
+          color: "orange-text-gradient",
+        },
+      ],
+      image: codetown,
+      source_code_link: "https://github.com/ast-cloud/code-town",
+      deployment_link: "https://code-town-users.vercel.app/"
     }
   ];
   
