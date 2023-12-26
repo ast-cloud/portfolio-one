@@ -273,7 +273,7 @@ import {
     {
       name: "Chat Now",
       description:
-        "An online quick chat application. Users can create a room or join an already created room with any name, without the need to give any personal information (Email or phone number). No chat logs are maintained and rooms are completely disposed off when the socket connection ends.",
+        "An online quick chat application created in react using redis pubsub system. Users can create a room or join an already created room with any name, without the need to give any personal information (Email or phone number).",
       tags: [
         {
           name: "ReactJS",
