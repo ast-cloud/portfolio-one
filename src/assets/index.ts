@@ -30,6 +30,7 @@ import rt from "./company/rt.jpeg";
 
 import coursehub from "./coursehub.png";
 import codetown from "./codetown.png";
+import chatnow from "./chatnow.png";
 
 export {
   logo,
@@ -57,6 +58,7 @@ export {
   websocket,
   coursehub,
   codetown,
+  chatnow,
   tcs,
   techstax,
   cobuild,

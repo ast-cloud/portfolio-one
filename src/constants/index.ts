@@ -20,6 +20,7 @@ import {
     websocket,
     coursehub,
     codetown,
+    chatnow,
     tcs,
     techstax,
     cobuild,
@@ -295,9 +296,9 @@ import {
           color: "orange-text-gradient",
         },
       ],
-      image: codetown,
-      source_code_link: "https://github.com/ast-cloud/code-town",
-      deployment_link: "https://code-town-users.vercel.app/"
+      image: chatnow,
+      source_code_link: "https://github.com/ast-cloud/chatnow",
+      deployment_link: "https://chatnow-frontend.vercel.app/"
     }
   ];
   
