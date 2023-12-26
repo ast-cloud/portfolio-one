@@ -273,7 +273,7 @@ import {
     {
       name: "Chat Now",
       description:
-        "An online quick chat application created in react using redis pubsub system. Users can create a room or join an already created room with any name, without the need to give any personal information (Email or phone number).",
+        "An online quick chat application created in react using Redis pub/sub system. Users can create a room or join an already created room with any name, without the need to give any personal information (Email or phone number).",
       tags: [
         {
           name: "ReactJS",
