@@ -273,7 +273,7 @@ import {
     {
       name: "Chat Now",
       description:
-        "An online coding platform created in Next.js. Users can view and solve problems in 4 languages (C, C++, Java, Python). User's code is sent to CodeRunner component, which is an express server running in a dockerised environment in an AWS EC2 instance.",
+        "An online quick chat application. Users can create a room or join an already created room with any name, without the need to give any personal information (Email or phone number). No chat logs are maintained and rooms are completely disposed off when the socket connection ends.",
       tags: [
         {
           name: "ReactJS",
