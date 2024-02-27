@@ -22,6 +22,8 @@ import graphql from "./tech/graphql.png";
 import redis from "./tech/redis.png";
 import python from "./tech/python.png";
 import websocket from "./tech/websocket.png";
+import linkedinIcon from "./linkedin.png";
+import twitterIcon from "./twitter.png";
 
 import tcs from "./company/tcs.jpeg";
 import techstax from "./company/techstax.png";
@@ -62,5 +64,7 @@ export {
   tcs,
   techstax,
   cobuild,
-  rt
+  rt,
+  linkedinIcon,
+  twitterIcon
 };

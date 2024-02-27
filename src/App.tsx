@@ -1,5 +1,6 @@
 import { BrowserRouter } from 'react-router-dom';
 import {Navbar, Hero, About, Experience, Tech, Works, Contact, StarsCanvas} from './components';
+import ProfileLinks from './components/ProfileLinks';
 
 function App() {
 
@@ -19,6 +20,8 @@ function App() {
           <Contact />
           <StarsCanvas />
         </div>
+
+        <ProfileLinks/>
       </div>
     </BrowserRouter>
   )
