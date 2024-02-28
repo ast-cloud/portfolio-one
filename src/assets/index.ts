@@ -24,6 +24,8 @@ import python from "./tech/python.png";
 import websocket from "./tech/websocket.png";
 import linkedinIcon from "./linkedin.png";
 import twitterIcon from "./twitter.png";
+import githubIcon from "./githublogo.png";
+import leetcodeIcon from "./leetcode.png";
 
 import tcs from "./company/tcs.jpeg";
 import techstax from "./company/techstax.png";
@@ -66,5 +68,7 @@ export {
   cobuild,
   rt,
   linkedinIcon,
-  twitterIcon
+  twitterIcon,
+  githubIcon,
+  leetcodeIcon
 };
