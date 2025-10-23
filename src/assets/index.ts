@@ -27,6 +27,7 @@ import twitterIcon from "./twitter.png";
 import githubIcon from "./githublogo.png";
 import leetcodeIcon from "./leetcode.png";
 
+import metron_security from "./company/metron_security.jpeg";
 import tcs from "./company/tcs.jpeg";
 import techstax from "./company/techstax.png";
 import cobuild from "./company/cobuild.jpg";
@@ -63,6 +64,7 @@ export {
   coursehub,
   codetown,
   chatnow,
+  metron_security,
   tcs,
   techstax,
   cobuild,

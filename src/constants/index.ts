@@ -24,7 +24,8 @@ import {
     tcs,
     techstax,
     cobuild,
-    rt
+    rt,
+    metron_security
   } from "../assets";
   
   export const navLinks = [
@@ -131,10 +132,32 @@ import {
   const experiences = [
     {
       title: "Developer",
+      company_name: "Metron Security",
+      icon: metron_security,
+      iconBg: "#fff",
+      date: "Feb 2025 - Present",
+      points: [
+        "Developed robust integrations for a cybersecurity client, connecting internal systems with Salesforce, Google BigQuery and AWS SQS to enhance functionality and data interoperability.",
+        "Developed Atlassian Forge apps to extend Jira functionality, improving project management and team productivity.",
+        "Developed apps with cross-platform integrations involving Jira, Slack, Zoho, and other third-party systems to automate workflows and enhance team productivity.",
+        "Developed custom Slack apps/bots to enhance team collaboration and automate routine processes.",
+        "Built and deployed cloud-native apps leveraging AWS services such as EC2, Lambda, API Gateway, S3, SNS, SQS.",
+        "Integrated and analyzed billing APIs from major cloud providers (AWS, Azure, GCP) to consolidate cost reporting and optimize cloud expenditure. Developed a multi-cloud cost analyzer by integrating billing APIs from AWS, Azure, and GCP, automating cost data consolidation and analysis to optimize cloud expenditure by providing real-time expense insights.",
+        "Thrived in an extremely fast-paced, research-oriented environment, consistently delivering high-quality solutions under tight deadlines.",
+        "Demonstrated self-sufficiency and ownership, independently managing projects from concept to deployment with minimal supervision."
+      ],
+      externalLink: {
+        exists: false,
+        name: '',
+        value: ''
+      }
+    },
+    {
+      title: "Developer",
       company_name: "TCS",
       icon: tcs,
       iconBg: "#fff",
-      date: "Oct 2021 - Present",
+      date: "Oct 2021 - Feb 2025",
       points: [
         "Developing and maintaining web applications written in MERN stack.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
