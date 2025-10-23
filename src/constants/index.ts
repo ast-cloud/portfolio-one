@@ -159,10 +159,12 @@ import {
       iconBg: "#fff",
       date: "Oct 2021 - Feb 2025",
       points: [
-        "Developing and maintaining web applications written in MERN stack.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing and maintaining large scale, consumer facing, performant web applications written in MERN stack.",
+        "Implemented and optimized automated testing frameworks using Jest and Vitest, employing advanced mocking and spying strategies, achieved a 100% code coverage, 50% decrease in post-release defects through rigorous test-driven development methodologies.",
+        "Implemented paging, indexing in databases (MongoDB, PostgreSQL) and optimized schema in relational database (PostgreSQL), refined backend code, reducing latency by 500ms - 4s across various parts of codebase.",
+        "Engineered and deployed robust AWS infrastructure, leveraging EC2, EBS, S3, RDS, SQS, Lambda to improve system scalability and reliability. Deployed docker containers using ECS.",
+        "Collaborated with 4-5 cross-functional teams including designers, product managers ensuring alignment and timely delivery.",
+        "Participating in code reviews and providing constructive feedback to other developers."
       ],
       externalLink: {
         exists: false,
